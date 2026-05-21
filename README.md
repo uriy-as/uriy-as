@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Привет! Мы — WebStudio
 
-<!--
-**uriy-as/uriy-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываем сайты, Telegram-ботов и научно-популярный контент для бизнеса.
 
-Here are some ideas to get you started:
+🔗 **Сайт:** [uriy-as.github.io](https://uriy-as.github.io)  
+📢 **Telegram-канал:** [@webstudio_chanel](https://t.me/webstudio_chanel)  
+📧 **Почта:** uriy.as59@yandex.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Наши услуги
+
+- 🚀 **Сайты** — Landing page, интернет-магазины, корпоративные сайты
+- 🤖 **Боты** — Telegram-боты на GPT, голосовые помощники
+- 📖 **Контент** — Научные статьи, копирайтинг, SMM
+
+Каждый проект делаем под ключ: от идеи до публикации и продвижения.
